@@ -1,0 +1,4 @@
+1/create server
+2/use database
+3/connect server to database
+4/create a model
